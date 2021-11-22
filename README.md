@@ -1,1 +1,1 @@
-# Team team-name-tbd's Repository for Hackathon 2021
+# Hackathon 2021: [team-name-tbd]'s Repository

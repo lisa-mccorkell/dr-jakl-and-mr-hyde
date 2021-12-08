@@ -10,4 +10,5 @@ FROM Fulfillment.dbo.client
 SELECT name AS account_name
      , (CASE WHEN website IS NULL THEN '' ELSE website END) AS account_url
      , id AS account_id
+     , type AS account_status
 FROM HG360.dbo.Account
